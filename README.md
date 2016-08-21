@@ -1,5 +1,5 @@
 JAVASCRIPT
 ECMAScript 6.0
 
-Learning and testing new features of JS6.
+Learning and testing the new features of JS6.
 
